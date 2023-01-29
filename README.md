@@ -10,11 +10,8 @@ Programa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="25%">
-</p>
+<br/>
+<br/>
 
 ## 🚀 Tecnologias
 
@@ -24,6 +21,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
+
+<br/>
 
 ## 💻 Projeto
 
